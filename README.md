@@ -16,7 +16,7 @@ This repository contains a Hand Tracking Module using the Mediapipe library. It 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/HandTrackingModule.git
+    git clone https://github.com/Rakesh0207Kumar/HandTrackingModule.git
     cd HandTrackingModule
     ```
 
